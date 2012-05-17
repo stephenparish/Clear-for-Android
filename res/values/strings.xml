@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <string name="hello">Hello World, ClearActivity!</string>
     <string name="app_name">Clear</string>
-
+    <string name="edit_message">Here it is</string>
+    <string name="button_send">Send</string>
+    <string name="clear_item_01">Yahoo: HIW images</string>
+<string-array name="countries_array">
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Barbados</item>
+        <item>Belarus</item>
+        <item>Belgium</item>
+        <item>Belize</item>
+        <item>Benin</item>
+    </string-array>
 </resources>
